@@ -1,8 +1,8 @@
 hello world!!!
 change -- for login feature
 change-to fix bug1
-<<<<<<< HEAD
 change to fix bug2
-=======
 change to fix bug 22
 >>>>>>> bug2
+
+xhange made by team mate for rebase testing
